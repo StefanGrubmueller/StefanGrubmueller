@@ -11,7 +11,7 @@
 ![STM32](https://img.shields.io/badge/-STM32-1b8508?style=flat-square&logo=c&logoColor=white) 
 ![MQTT](https://img.shields.io/badge/-MQTT-b221cc?style=flat-square&logo=c&logoColor=white) 
 ![ESP8266](https://img.shields.io/badge/-ESP8266-2b2e2a?style=flat-square&logo=c&logoColor=white) 
-![Grafana](https://img.shields.io/badge/-Grafana-555b70?style=flat-square&logo=c&logoColor=white) 
+![Grafana](https:/simpleicons.org/?q=grafana-Grafana-555b70?style=flat-square&logo=c&logoColor=white) 
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-1b8508?style=flat-square&logo=c&logoColor=white)
 ![NodeRed](https://img.shields.io/badge/-NodeRed-cc122e?style=flat-square&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) 

@@ -6,8 +6,8 @@
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![JS](https://img.shields.io/badge/-JS-800000?style=flat-square&logoColor=white) 
-![TS](https://img.shields.io/badge/-TS-800000?style=flat-square&logoColor=white) 
+![JS](https://img.shields.io/badge/-JS-8FE000?style=flat-square&logoColor=white) 
+![TS](https://img.shields.io/badge/-TS-5C0000?style=flat-square&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-800000?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-800000?style=flat-square&logoColor=white) 
 ![Angular](https://img.shields.io/badge/-Angular-800000?style=flat-square&logoColor=white) 

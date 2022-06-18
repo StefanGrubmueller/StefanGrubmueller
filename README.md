@@ -13,6 +13,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-80FFF0?style=flat-square) 
 ![Angular](https://img.shields.io/badge/-Angular-444700?style=flat-square) 
 ![React](https://img.shields.io/badge/-React-403700?style=flat-square) 
+![Firebase](https://img.shields.io/badge/-Firebase-583407?style=flat-square) 
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) 
 ![KeiluVision5](https://img.shields.io/badge/-KeiluVision5-1b8508?style=flat-square&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-1b8508?style=flat-square&logoColor=white) 
